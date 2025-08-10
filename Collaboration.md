@@ -1,4 +1,9 @@
-**Contributors**:  
-[Saleh](https://github.com/SalehShakour) & [MohammadReza](https://github.com/MohammadRezaRoohian)  
+# Project Collaboration
 
-**Note**: This repository is mirrored at [MohammadReza's GitHub](https://github.com/MohammadRezaRoohian) for academic visibility.
+This project was developed jointly by both contributors through paired programming sessions. The repository is mirrored for academic submission purposes.
+
+**Developed by**:  
+[Saleh Shakour](https://github.com/SalehShakour) & [MohammadReza Roohian](https://github.com/MohammadRezaRoohian)  
+
+**Mirror Repository**:  
+[Identical copy available here](https://github.com/MohammadRezaRoohian/Calorie_Expenditure_Regression_Analysis)
