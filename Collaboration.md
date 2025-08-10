@@ -6,4 +6,4 @@ This project was developed jointly by both contributors through paired programmi
 [Saleh Shakour](https://github.com/SalehShakour) & [MohammadReza Roohian](https://github.com/MohammadRezaRoohian)  
 
 **Mirror Repository**:  
-[Identical copy available here](https://github.com/MohammadRezaRoohian/Calorie_Expenditure_Regression_Analysis)
+[Identical copy available here](https://github.com/MohammadRezaRoohian/Calorie-Expenditure-Regression-Analysis)
