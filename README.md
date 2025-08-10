@@ -31,9 +31,12 @@ Machine learning pipeline to predict calories burned during workouts based on bi
    - BMI-Weight correlation: 0.81 (expected)
 
 3. **Modeling**:
-   - **Polynomial Regression**: Best performer (R²: 0.95)
-   - **Random Forest**: Prone to overfitting (Train R²: 0.97 vs Test R²: 0.93)
-   - **OLS Regression**: Confirmed key predictors (Gender p=0.000, BMI p=0.038)
+   - **Polynomial Regression**: Best performance (R²: 0.95, MAE: ~44 kcal)
+   - **Random Forest**: Competitive results (R²: 0.92-0.94 range across splits)
+   - **OLS Regression**: Identified significant predictors:
+     - Gender (p<0.001) 
+     - Session Duration (p<0.001)
+     - BMI (p=0.038)
 
 4. **Validation**:
    - 3 random splits (random_state=42,7,99) → Consistent results
